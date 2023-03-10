@@ -8,7 +8,7 @@
 - 🤞 Studing Information Tech at Southern Newhampshire University
 
 <p align="center">
-  <img align="right" alt"JPG" src="https://github.com/itssnoww/itssnoww/blob/main/akame.png" width"500" height"320" />
+  <img align="right" alt"JPG" src="https://github.com/itssnoww/itssnoww/blob/main/akame1.png" width"500" height"320" />
 ─────────────────────────────────────
 </p>
 
