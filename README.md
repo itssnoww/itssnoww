@@ -1,16 +1,37 @@
-### Hi there 👋
+<p align="center">
+─────────────────────────────────────
+</p>
 
-<!--
-**itssnoww/itssnoww** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Welcome to me github ^^
 
-Here are some ideas to get you started:
+### Personal affair :
+- 🤞 Studing Information Tech at Southern Newhampshire University
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img align="right" alt"JPG" src="https://github.com/Unknown-user-dev/Unknown-user-dev/blob/main/akame.jpg" width"500" height"320" />
+─────────────────────────────────────
+</p>
+
+### Connect with me:
+
+- 🧥 You can contact me to me discord : ItsSnow#0001
+
+- 🥼And me website : https://snowowah.online/home/
+
+<p align="center">
+─────────────────────────────────────
+</p>
+
+### The languages I learn :
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"></code>
+
+<p align="center">
+─────────────────────────────────────
+</p>
+
+<img align="left" alt="Uitssnoww's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itssnoww&show_icons=true&hide_border=true&theme=radical" />
+<img align="right" alt="itssnoww's Github Stats" src="https://github-readme-stats.vercel.app/api?username=itssnoww&show_icons=true&hide_border=true&theme=radical" />
+
+[website]: https://snowowah.online/home/
+[github]: https://www.github.com/itssnoww
