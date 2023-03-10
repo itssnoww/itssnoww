@@ -14,9 +14,9 @@
 
 ### Connect with me:
 
-- 🧥 You can contact me to me discord : ItsSnow#0001
+- 🧥 You can contact me through my discord : ItsSnow#0001
 
-- 🥼And me website : https://snowowah.online/home/
+- 🥼My Website : https://snowowah.online/home/
 
 <p align="center">
 ─────────────────────────────────────
