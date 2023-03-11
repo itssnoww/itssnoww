@@ -6,6 +6,7 @@
 
 ### Personal affair :
 - 🤞 Studing Information Tech at Southern Newhampshire University 
+- 🤞 Learning new coding languages <3 
 
 <p align="center">
   <img align="right" alt"JPG" src="https://github.com/itssnoww/itssnoww/blob/main/akame1.png" width"500" height"320" />
